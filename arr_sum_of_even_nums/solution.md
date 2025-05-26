@@ -13,7 +13,10 @@
   gcc -o test test.c sum_of_evens.c
   ./test
   ```
-
+- Remove the compiled files:
+  ```bash
+  make clean 
+  ```
 ## **JavaScript (JS)**
 
 * Ensure you have [Node.js](https://nodejs.org/) installed.
