@@ -1,6 +1,6 @@
-# How to Run the Solutions
+# `How to run the solutions`
 
-## C
+## **C**
 - Use the provided `Makefile` to build and run the C programs.
 - To compile and run:
   ```bash
@@ -14,7 +14,7 @@
   ./test
   ```
 
-## JavaScript (JS)
+## **JavaScript (JS)**
 
 * Ensure you have [Node.js](https://nodejs.org/) installed.
 * To install dependencies (if any):
@@ -28,7 +28,7 @@
   node test_sum_of_evens.js
   ```
 
-## Python
+## **Python**
 
 * Requires Python 3.10+ (tested on 3.13).
 * Install dependencies listed in `needs.txt` (if any):
@@ -48,7 +48,7 @@
   pytest
   ```
 
-## TypeScript
+## **TypeScript**
 
 * Requires [Deno](https://deno.land/) runtime.
 
