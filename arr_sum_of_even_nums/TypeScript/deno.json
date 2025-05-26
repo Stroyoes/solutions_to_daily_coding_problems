@@ -1,0 +1,8 @@
+{
+  "lint": true,
+  "fmt": {
+    "files": {
+      "include": ["./"]
+    }
+  }
+}
