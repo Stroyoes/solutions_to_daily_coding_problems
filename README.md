@@ -1,6 +1,7 @@
-# solutions_to_daily_coding_problems
 
-Solutions to some daily coding problems . Solving one problem per day . All problems are answered in 4 languages (Python, C, JS, TypeScript)
+# `solutions_to_daily_coding_problems`
 
-For more question and daily problems subscribe [daily coding problems](https://www.dailycodingproblem.com/) now !
+🚀 Tackling daily coding challenges one problem at a time! Each solution is provided in 4 languages: Python, C, JavaScript, and TypeScript.
+
+🧠 Want more questions like these? Subscribe to [Daily Coding Problem](https://www.dailycodingproblem.com/) for your daily dose of brain teasers!
 
